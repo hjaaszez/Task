@@ -73,7 +73,7 @@ if __name__=="__main__":
         for j in range(roop):
             if i == 0:
                 walk = v1()
-            elif i == 1:
+            elif i == 1
                 walk = v2()
             elif i == 2:
                 walk = v3()
